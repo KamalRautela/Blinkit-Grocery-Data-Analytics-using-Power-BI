@@ -39,6 +39,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 
 ## 🗃 Dataset Overview
 
+![Dataset](https://github.com/KamalRautela/Blinkit-Grocery-Data-Analytics-using-Power-BI/blob/main/Dataset%20Preview.png)
+
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
 | `Item Fat Content`       | Type of fat (Regular, Low Fat)                                              |
@@ -57,6 +59,8 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 > 📊 The dataset contains 8,000+ rows and 12 columns.
 
 ---
+
+![Dataset](https://github.com/KamalRautela/Blinkit-Grocery-Data-Analytics-using-Power-BI/blob/main/Dashboard%20Preview.png)
 
 ## 🔍 Insights Uncovered
 
